@@ -1,4 +1,4 @@
-# 📌 G12_BTL Nhập Môn Công Nghệ Phần Mềm
+# 📌 G14_BTL Nhập Môn Công Nghệ Phần Mềm
 
 ## 🔥 Nguyên tắc làm việc trên Git
 
