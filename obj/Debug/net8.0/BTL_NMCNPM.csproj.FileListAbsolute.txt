@@ -1,8 +1,0 @@
-D:\TH_LTWNC\BTL_NMCNPM\obj\Debug\net8.0\BTL_NMCNPM.GeneratedMSBuildEditorConfig.editorconfig
-D:\TH_LTWNC\BTL_NMCNPM\obj\Debug\net8.0\BTL_NMCNPM.AssemblyInfoInputs.cache
-D:\TH_LTWNC\BTL_NMCNPM\obj\Debug\net8.0\BTL_NMCNPM.AssemblyInfo.cs
-D:\TH_LTWNC\BTL_NMCNPM\obj\Debug\net8.0\BTL_NMCNPM.csproj.CoreCompileInputs.cache
-D:\TH_LTWNC\BTL_NMCNPM\obj\Debug\net8.0\BTL_NMCNPM.MvcApplicationPartsAssemblyInfo.cache
-D:\TH_LTWNC\BTL_NMCNPM\obj\Debug\net8.0\BTL_NMCNPM.RazorAssemblyInfo.cache
-D:\TH_LTWNC\BTL_NMCNPM\obj\Debug\net8.0\BTL_NMCNPM.RazorAssemblyInfo.cs
-D:\TH_LTWNC\BTL_NMCNPM\obj\Debug\net8.0\BTL_NMCNPM.sourcelink.json
