@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TH_LTWNC\\BTL_NMCNPM\\BTL_NMCNPM.csproj": {}
+    "D:\\webPro\\NMCNPM\\BTL_NMCNPM.csproj": {}
   },
   "projects": {
-    "D:\\TH_LTWNC\\BTL_NMCNPM\\BTL_NMCNPM.csproj": {
+    "D:\\webPro\\NMCNPM\\BTL_NMCNPM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TH_LTWNC\\BTL_NMCNPM\\BTL_NMCNPM.csproj",
+        "projectUniqueName": "D:\\webPro\\NMCNPM\\BTL_NMCNPM.csproj",
         "projectName": "BTL_NMCNPM",
-        "projectPath": "D:\\TH_LTWNC\\BTL_NMCNPM\\BTL_NMCNPM.csproj",
-        "packagesPath": "C:\\Users\\ACER GAMING\\.nuget\\packages\\",
-        "outputPath": "D:\\TH_LTWNC\\BTL_NMCNPM\\obj\\",
+        "projectPath": "D:\\webPro\\NMCNPM\\BTL_NMCNPM.csproj",
+        "packagesPath": "C:\\Users\\kient\\.nuget\\packages\\",
+        "outputPath": "D:\\webPro\\NMCNPM\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ACER GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kient\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,11 +43,24 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -63,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
